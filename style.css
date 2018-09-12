@@ -44,7 +44,8 @@ h6
 a, a:hover
 { outline: none;
   text-decoration: underline;
-  color: #8565c4;}
+  color: #8565c4;
+  font: normal 200% 'century gothic', arial, sans-serif;}
 
 a:hover
 { text-decoration: none;}
@@ -159,7 +160,7 @@ ul#menu li a
 
 ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { color: #FFF;
-  background: #3F1B41 url(menu_select.png) repeat-x;}
+  background: #3F1B41}
 
 .button {
     background-color: #3F1B41;
